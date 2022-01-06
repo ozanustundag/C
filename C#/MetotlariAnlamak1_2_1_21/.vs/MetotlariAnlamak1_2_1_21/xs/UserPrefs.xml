@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F4A67076-0340-44E8-AAA8-D6345B2FD827}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MetotlariAnlamak1_2_1_21/Program.cs">
+    <Files>
+      <File FileName="MetotlariAnlamak1_2_1_21/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MetotlariAnlamak1_2_1_21" expanded="True">
+            <Node name="MetotlariAnlamak1_2_1_21" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MetotlariAnlamak1__2__1__21 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

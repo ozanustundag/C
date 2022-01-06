@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FCCC1F2F-A342-4664-A617-CD3F70DF8969}|Default">
+  <MonoDevelop.Ide.ItemProperties.IcIceSinifKullanimi5__1__21 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IcIceSinifKullanimi5_1_21/Program.cs">
+    <Files>
+      <File FileName="IcIceSinifKullanimi5_1_21/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IcIceSinifKullanimi5_1_21" expanded="True">
+            <Node name="IcIceSinifKullanimi5_1_21" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

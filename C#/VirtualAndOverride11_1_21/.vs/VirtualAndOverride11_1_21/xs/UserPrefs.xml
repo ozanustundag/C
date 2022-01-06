@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3AC3CD24-8E3D-4319-B898-B1988599552C}|Default">
+  <MonoDevelop.Ide.ItemProperties.VirtualAndOverride11__1__21 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VirtualAndOverride11_1_21/Program.cs">
+    <Files>
+      <File FileName="VirtualAndOverride11_1_21/Calisan.cs" Line="1" Column="1" />
+      <File FileName="VirtualAndOverride11_1_21/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VirtualAndOverride11_1_21" expanded="True">
+            <Node name="VirtualAndOverride11_1_21" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

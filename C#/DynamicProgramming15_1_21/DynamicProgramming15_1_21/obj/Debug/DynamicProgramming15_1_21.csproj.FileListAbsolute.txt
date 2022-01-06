@@ -1,0 +1,7 @@
+C:\Users\ozanu\Desktop\C#\DynamicProgramming15_1_21\DynamicProgramming15_1_21\bin\Debug\DynamicProgramming15_1_21.exe.config
+C:\Users\ozanu\Desktop\C#\DynamicProgramming15_1_21\DynamicProgramming15_1_21\bin\Debug\DynamicProgramming15_1_21.exe
+C:\Users\ozanu\Desktop\C#\DynamicProgramming15_1_21\DynamicProgramming15_1_21\bin\Debug\DynamicProgramming15_1_21.pdb
+C:\Users\ozanu\Desktop\C#\DynamicProgramming15_1_21\DynamicProgramming15_1_21\obj\Debug\DynamicProgramming15_1_21.csprojAssemblyReference.cache
+C:\Users\ozanu\Desktop\C#\DynamicProgramming15_1_21\DynamicProgramming15_1_21\obj\Debug\DynamicProgramming15_1_21.csproj.CoreCompileInputs.cache
+C:\Users\ozanu\Desktop\C#\DynamicProgramming15_1_21\DynamicProgramming15_1_21\obj\Debug\DynamicProgramming15_1_21.exe
+C:\Users\ozanu\Desktop\C#\DynamicProgramming15_1_21\DynamicProgramming15_1_21\obj\Debug\DynamicProgramming15_1_21.pdb

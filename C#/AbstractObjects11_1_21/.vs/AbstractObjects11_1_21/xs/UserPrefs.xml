@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{6D98322B-C3DA-4C43-8B32-8A9B093563B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractObjects11_1_21/Program.cs">
+    <Files>
+      <File FileName="AbstractObjects11_1_21/Muhendis.cs" Line="1" Column="1" />
+      <File FileName="AbstractObjects11_1_21/Calisan.cs" Line="22" Column="1" />
+      <File FileName="AbstractObjects11_1_21/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AbstractObjects11__1__21 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

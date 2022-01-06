@@ -1,0 +1,7 @@
+C:\Users\ozanu\Desktop\C#\ExtensionMethods1_15_21\ExtensionMethods1_15_21\bin\Debug\ExtensionMethods1_15_21.exe.config
+C:\Users\ozanu\Desktop\C#\ExtensionMethods1_15_21\ExtensionMethods1_15_21\bin\Debug\ExtensionMethods1_15_21.exe
+C:\Users\ozanu\Desktop\C#\ExtensionMethods1_15_21\ExtensionMethods1_15_21\bin\Debug\ExtensionMethods1_15_21.pdb
+C:\Users\ozanu\Desktop\C#\ExtensionMethods1_15_21\ExtensionMethods1_15_21\obj\Debug\ExtensionMethods1_15_21.csprojAssemblyReference.cache
+C:\Users\ozanu\Desktop\C#\ExtensionMethods1_15_21\ExtensionMethods1_15_21\obj\Debug\ExtensionMethods1_15_21.csproj.CoreCompileInputs.cache
+C:\Users\ozanu\Desktop\C#\ExtensionMethods1_15_21\ExtensionMethods1_15_21\obj\Debug\ExtensionMethods1_15_21.exe
+C:\Users\ozanu\Desktop\C#\ExtensionMethods1_15_21\ExtensionMethods1_15_21\obj\Debug\ExtensionMethods1_15_21.pdb

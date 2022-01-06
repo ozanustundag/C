@@ -1,0 +1,7 @@
+C:\Users\ozanu\Desktop\C#\StatikSiniflarille1_9_21\StatikSiniflarille1_9_21\bin\Debug\StatikSiniflarille1_9_21.exe.config
+C:\Users\ozanu\Desktop\C#\StatikSiniflarille1_9_21\StatikSiniflarille1_9_21\bin\Debug\StatikSiniflarille1_9_21.exe
+C:\Users\ozanu\Desktop\C#\StatikSiniflarille1_9_21\StatikSiniflarille1_9_21\bin\Debug\StatikSiniflarille1_9_21.pdb
+C:\Users\ozanu\Desktop\C#\StatikSiniflarille1_9_21\StatikSiniflarille1_9_21\obj\Debug\StatikSiniflarille1_9_21.csprojAssemblyReference.cache
+C:\Users\ozanu\Desktop\C#\StatikSiniflarille1_9_21\StatikSiniflarille1_9_21\obj\Debug\StatikSiniflarille1_9_21.csproj.CoreCompileInputs.cache
+C:\Users\ozanu\Desktop\C#\StatikSiniflarille1_9_21\StatikSiniflarille1_9_21\obj\Debug\StatikSiniflarille1_9_21.exe
+C:\Users\ozanu\Desktop\C#\StatikSiniflarille1_9_21\StatikSiniflarille1_9_21\obj\Debug\StatikSiniflarille1_9_21.pdb

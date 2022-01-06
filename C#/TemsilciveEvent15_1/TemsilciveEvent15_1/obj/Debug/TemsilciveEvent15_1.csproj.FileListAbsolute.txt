@@ -1,0 +1,7 @@
+C:\Users\ozanu\Desktop\C#\TemsilciveEvent15_1\TemsilciveEvent15_1\bin\Debug\TemsilciveEvent15_1.exe.config
+C:\Users\ozanu\Desktop\C#\TemsilciveEvent15_1\TemsilciveEvent15_1\bin\Debug\TemsilciveEvent15_1.exe
+C:\Users\ozanu\Desktop\C#\TemsilciveEvent15_1\TemsilciveEvent15_1\bin\Debug\TemsilciveEvent15_1.pdb
+C:\Users\ozanu\Desktop\C#\TemsilciveEvent15_1\TemsilciveEvent15_1\obj\Debug\TemsilciveEvent15_1.csprojAssemblyReference.cache
+C:\Users\ozanu\Desktop\C#\TemsilciveEvent15_1\TemsilciveEvent15_1\obj\Debug\TemsilciveEvent15_1.csproj.CoreCompileInputs.cache
+C:\Users\ozanu\Desktop\C#\TemsilciveEvent15_1\TemsilciveEvent15_1\obj\Debug\TemsilciveEvent15_1.exe
+C:\Users\ozanu\Desktop\C#\TemsilciveEvent15_1\TemsilciveEvent15_1\obj\Debug\TemsilciveEvent15_1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinifNesneleriniAnlamak3_5_1_21", "SinifNesneleriniAnlamak3_5_1_21\SinifNesneleriniAnlamak3_5_1_21.csproj", "{A8F1ECFE-CA21-44E0-9782-C28F8E9E8C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F1ECFE-CA21-44E0-9782-C28F8E9E8C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F1ECFE-CA21-44E0-9782-C28F8E9E8C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F1ECFE-CA21-44E0-9782-C28F8E9E8C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F1ECFE-CA21-44E0-9782-C28F8E9E8C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEE93337-97F5-462F-9886-6AB44684E762}
+	EndGlobalSection
+EndGlobal
